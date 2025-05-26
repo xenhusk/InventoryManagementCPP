@@ -1,0 +1,46 @@
+# C++ specific
+*.o
+*.lo
+*.la
+*.slo
+*.so
+*.a
+*.d
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+CMakeLists.txt.user
+compile_commands.json
+CTestTestfile.cmake
+Makefile
+*.cbp
+
+# Build directory
+build/
+**/build/
+**/Debug/
+**/Release/
+*.exe
+*.dll
+*.pdb
+*.ilk
+
+# Visual Studio
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.aps
+*.ncb
+*.suo
+*.user
+*.opensdf
+*.sdf
+ipch/
+.vs/
+**/GeneratedFiles/
+
+# User-specific files
+db_config.ini
