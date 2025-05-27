@@ -1,3 +1,10 @@
+#Documents
+**Testplan Documentation**
+https://docs.google.com/document/d/1q8shJnAazFL923uHcrPQKrJ1DUJWcDyXpX96LOJB3dc/edit?usp=sharing
+
+**Algorithm Documentation**
+https://docs.google.com/document/d/1jsVyUu2LXJN5o6hnkjKMnHdqr5QfltgJVwLNpOI46IU/edit?usp=sharing
+
 # Inventory Management System (C++ & PostgreSQL)
 
 This project is a command-line based Inventory Management System built with C++ and using PostgreSQL as the database. It allows users to perform CRUD (Create, Read, Update, Delete) operations on products and includes a comparison of two different algorithms for fetching all products.
